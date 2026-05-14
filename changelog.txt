@@ -1,6 +1,11 @@
 RaspaDrive Firmware
 -------------------
 
+v1.1
+----
+- Added YM2149 soundchip emulation.
+- Fixed bug with F12 on USB keyboard causing boot to ROM.
+
 v1.0
 ----
 - First revision

@@ -1,6 +1,11 @@
 RaspaDrive Firmware
 -------------------
 
+v1.2
+----
+- Handle SD card not being inserted better
+- added 5th button on production model
+
 v1.1
 ----
 - Added YM2149 soundchip emulation.

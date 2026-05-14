@@ -1,0 +1,18 @@
+RaspaDrive Firmware
+-------------------
+
+v1.0
+----
+- First revision
+- includes: 
+	- DivIDE emulation with 2 drives (SD/MMC and USB disk)
+	- +3 disk emulation
+	- +2a
+	- USB joypads (as Kempston joystick)
+	- Kmouse (Kempston mouse)
+	- USB keyboards (48k, 128k, +2 grey... NOT +2A / +3 due to gate array)
+	- Opus Discovery (1 drive only)
+	- Loader menu for joypad calibration, loading hardware modes, 
+	- System ROM / Cartridge ROM emulation.
+
+

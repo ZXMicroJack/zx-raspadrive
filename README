@@ -1,0 +1,36 @@
+RASPADRIVE
+==========
+
+This is the firmware update / doc update portal for Raspadrive.
+
+For deep dive: https://www.youtube.com/watch?v=oc3YlvDmcVM
+For overview: https://www.youtube.com/watch?v=mfd3JA38tkY
+
+For UK sales, visit: https://zxmicrojack.co.uk 
+For EU sales, visit: https://antoniovillena.com
+
+Updating the Firmware
+---------------------
+
+Firmware can be updated by placing the release binary (called RASPADRV.UPD) onto the root
+directory of a USB disk formatted with FAT32, inserting into the USB1.1 slot, powering up the
+spectrum, holding the M key to invoke the Raspadrive menu, and select Firmware Update.
+
+Contents of the ZIP
+-------------------
+
+- firmware - directory containing:
+	- raspadrv.uf2 for disaster recovery - connecting USB-A to USB-A of a PC laptop and 
+	  holding the bootsel button.
+	  *PLEASE DISCONNECT FROM SPECTRUM FOR THIS*
+
+	- RASPADRV.UPD for update via USB - see above for instructions
+
+- sdcard - containing skeleton for SD/MMC memory card, formatted to FAT32 only.
+
+- changelog.txt - history of Raspadrive versions
+
+- manual.pdf - The manual describing its use along with a quickstart guide.
+
+
+

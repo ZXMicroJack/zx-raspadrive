@@ -1,6 +1,14 @@
 RaspaDrive Firmware
 -------------------
 
+v1.3
+----
+- Fixed naming of JOYDATA.DAT.
+- Fixed display of 128/+2 detection on splash screen
+- Fixed buffer overrun issue with IO
+- Can navigate using arrow keys, and select using ENTER or SPACE
+- Report inability to write joypad calibration
+
 v1.2
 ----
 - Handle SD card not being inserted better

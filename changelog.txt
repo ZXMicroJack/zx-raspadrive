@@ -1,6 +1,13 @@
 RaspaDrive Firmware
 -------------------
 
+v1.4
+----
+- bit of cleanup
+- internal disk for testing
+- ROMCS fix for 48k
+- move read GPIOs a bit later to make it more reliable.
+
 v1.3
 ----
 - Fixed naming of JOYDATA.DAT.

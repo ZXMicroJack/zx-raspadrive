@@ -1,6 +1,11 @@
 RaspaDrive Firmware
 -------------------
 
+v1.5
+----
+- added beeper - spectrum speaker output to I2S output.
+
+
 v1.4
 ----
 - bit of cleanup
